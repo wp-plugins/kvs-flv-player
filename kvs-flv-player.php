@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: KVS FLV Player
- Version: 1.0
+ Version: 1.1
  Author: CyberSEO.net
  Author URI: http://www.cyberseo.net/
  Plugin URI: http://www.cyberseo.net/kvs-flv-player/

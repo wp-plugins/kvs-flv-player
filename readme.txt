@@ -44,6 +44,9 @@ The plugin has no user interface.
 
 == Changelog ==
 
+= 1.1 =
+* KVS Player has been updated to version v2.4.3
+
 = 1.0 =
 * Initial public release.
 
