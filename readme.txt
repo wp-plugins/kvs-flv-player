@@ -8,7 +8,7 @@ Requires at least: 2.0.0
 Tested up to: 3.8
 Stable tag: 4.3
 
-An extremely small and simple plugin which allows one to easily embed videos (FLV, F4V and MP4 files) into WordPress blogs. Both Flash and HTML5 modes are supported.
+An extremely fast and easy to use plugin which allows one to easily embed videos (FLV, F4V and MP4 files) into WordPress blogs. Both Flash and HTML5 modes are supported.
 
 == Description ==
 
@@ -19,7 +19,7 @@ The KVS Player plugin (developed by [CyberSEO.net](http://www.cyberseo.net/ "Cyb
 where:
 
 * url - URL of the video file you want to embed;
-* image (optional) - URL of a preview image (shown in display and playlist). The preview image must be stored on local host as it’s required by Kernel Team video player;
+* image (optional) - URL of a preview image (shown in display and playlist). The preview image must be stored on local host as it's required by Kernel Team video player;
 * width (optional) - width of an video;
 * height (optional) - height of an video;
 * link (optional) - URL to an external page the display, control bar and playlist can link to (default: #);
