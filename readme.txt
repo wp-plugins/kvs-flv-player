@@ -8,7 +8,7 @@ Requires at least: 2.0.0
 Tested up to: 3.8
 Stable tag: 4.3
 
-An extremely fast and easy to use plugin which allows one to easily embed videos (FLV, F4V and MP4 files) into WordPress blogs. Both Flash and HTML5 modes are supported.
+An extremely fast and easy to use plugin which allows one to easily embed videos into WordPress blogs. Both Flash and HTML5 modes are supported.
 
 == Description ==
 
