@@ -3,7 +3,7 @@ Contributors: CyberSEO
 Plugin URI: http://www.cyberseo.net/kvs-flv-player/
 Author: CyberSEO
 Author URI: http://www.cyberseo.net/
-Tags: flv, mp4, f4v, embed, player, video, flash, kernel video player, kvs
+Tags: flv, mp4, f4v, embed, player, video, flash, kernel video player, kvs, mobile video player, html5
 Requires at least: 2.0.0
 Tested up to: 3.8
 Stable tag: 4.3
@@ -23,7 +23,7 @@ where:
 * width (optional) – width of an video;
 * height (optional) – height of an video;
 * link (optional) – URL to an external page the display, control bar and playlist can link to (default: #);
-* player (optional) – URL to FLV player (default: /wp-content/plugins/kvs-player-pro/kt_player/kt_player.swf).
+* player (optional) – URL to FLV player (default: /wp-content/plugins/kvs-flv-player/kt_player/kt_player.swf).
 
 
 The plugin uses the freeware KVS Player by [Kernel Team](http://www.kernel-video-sharing.com/en/player/ "Kernel Team").
