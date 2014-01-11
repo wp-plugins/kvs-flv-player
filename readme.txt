@@ -1,4 +1,4 @@
-=== KVS FLV Player ===
+=== KVS Player ===
 Contributors: CyberSEO
 Plugin URI: http://www.cyberseo.net/kvs-flv-player/
 Author: CyberSEO
