@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<general>
+        <setting>
+                <flashvar flv_stream="true"
+                                  adreplay="true"
+                                  logo_src=""
+                                  logo_position="[0,0]"
+                                  logo_url=""
+                                  video_click_url=""
+                                  hide_controlbar="1"
+                                  mlogo=""
+                                  mlogo_link=""
+                                  permalink_url=""
+                                  related=""
+                                  related_data=""
+                                  adv_pre_src=""
+                                  adv_pre_duration=""
+                                  adv_pre_url=""
+                                  adv_post_src=""
+                                  adv_post_duration=""
+                                  adv_post_url=""
+                                  adv_pause_src=""
+                                  adv_pause_url=""
+                                  adv_stop_src=""
+                                  adv_stop_url=""
+                                  embed="1"
+                                />
+        </setting>
+</general>
