@@ -18,12 +18,12 @@ The KVS Player plugin (developed by [CyberSEO.net](http://www.cyberseo.net/ "Cyb
 
 where:
 
-* url – URL of the video file you want to embed;
-* image (optional) – URL of a preview image (shown in display and playlist). The preview image must be stored on local host as it’s required by Kernel Team video player;
-* width (optional) – width of an video;
-* height (optional) – height of an video;
-* link (optional) – URL to an external page the display, control bar and playlist can link to (default: #);
-* player (optional) – URL to FLV player (default: /wp-content/plugins/kvs-flv-player/kt_player/kt_player.swf).
+* url - URL of the video file you want to embed;
+* image (optional) - URL of a preview image (shown in display and playlist). The preview image must be stored on local host as it’s required by Kernel Team video player;
+* width (optional) - width of an video;
+* height (optional) - height of an video;
+* link (optional) - URL to an external page the display, control bar and playlist can link to (default: #);
+* player (optional) - URL to FLV player (default: /wp-content/plugins/kvs-flv-player/kt_player/kt_player.swf).
 
 
 The plugin uses the freeware KVS Player by [Kernel Team](http://www.kernel-video-sharing.com/en/player/ "Kernel Team").
