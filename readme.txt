@@ -45,6 +45,9 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Changelog ==
 
+= 2.1 =
+* Minor bugs fixed.
+
 = 2.0 =
 * KVS Player has been updated to version 3.4.0.
 * Portable devices are now supported in the HTML5 mode.
