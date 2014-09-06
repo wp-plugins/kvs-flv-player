@@ -5,7 +5,7 @@ Author: CyberSEO
 Author URI: http://www.cyberseo.net/
 Tags: flv, mp4, f4v, embed, player, video, flash, kernel video player, kvs, mobile video player, html5
 Requires at least: 2.0.0
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 4.3
 
 An extremely fast and easy to use plugin which allows one to embed videos into WordPress blogs. Both Flash and HTML5 modes are supported.
@@ -44,6 +44,9 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 1. The interface options panel.
 
 == Changelog ==
+
+= 2.2 =
+* Fully compatible with WordPress 4.0.
 
 = 2.1 =
 * Minor bugs fixed.
