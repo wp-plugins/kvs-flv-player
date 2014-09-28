@@ -2,7 +2,7 @@
 /*
   Plugin Name: KVS Player
   Author: CyberSEO.net
-  Version: 2.2
+  Version: 2.3
   Author URI: http://www.cyberseo.net/
   Plugin URI: http://www.cyberseo.net/kvs-flv-player/
   Description: The KVS Player plugin allows one to easily embed videos (FLV, F4V and MP4 files) into WordPress blogs.
