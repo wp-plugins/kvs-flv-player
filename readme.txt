@@ -45,6 +45,9 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Changelog ==
 
+= 2.3 =
+* Kernel Team FLV Video Player updated to v5.5
+
 = 2.2 =
 * Fully compatible with WordPress 4.0.
 
