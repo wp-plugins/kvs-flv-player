@@ -45,6 +45,9 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Changelog ==
 
+= 2.5 =
+* Fully compatible with WordPress 4.1
+
 = 2.4 =
 * Fully compatible with WordPress 4.0.1
 
